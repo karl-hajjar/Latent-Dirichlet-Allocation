@@ -1,2 +1,4 @@
 # Latent-Dirichlet-Allocation
-This repository contains the report of a project I did with two teammates on the Latent Dirichlet Allocation 
+During a Probabilistic Graphical Models course, I reviewed a paper on Topic Modeling aiming at extracting topics out of unstructured textual data. The Latent Dirichlet Allocation (LDA) is a probabilistic generative Bayesian model which is able to effectively extract content and information out of corpora. The original article by David M. Blei, Andrew Y. Ng and Michael I. Jordan dating of 2003 can be found here http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf.
+
+Our review of the paper gives good insights on how LDA works and how inference and learning is done in that model. Our objective was to link methods used in the paper to elements studied in our Probabilistic Graphical Model course. As such, our review is not comprehensive about the LDA but explains the math present in the original article.
